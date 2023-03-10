@@ -1,9 +1,9 @@
 --cpu Cortex-M3
 "oled\startup_stm32f103xb.o"
+"oled\oled.o"
 "oled\main.o"
 "oled\stm32f1xx_it.o"
 "oled\stm32f1xx_hal_msp.o"
-"oled\oled.o"
 "oled\stm32f1xx_hal_gpio_ex.o"
 "oled\stm32f1xx_hal_i2c.o"
 "oled\stm32f1xx_hal.o"
